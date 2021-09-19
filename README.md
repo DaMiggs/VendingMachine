@@ -13,7 +13,8 @@ Print the message "Selected a valid item." or "Selected an invalid item." depend
 If the customer selected a valid item number, print the message "Payment was enough." or "Payment was not enough." depending on whether the customer paid enough money for the item.
 Print the message "Here is your item." or "You get nothing." depending on whether the customer ultimately gets the item they wanted.
 
-Test List - ![image](https://user-images.githubusercontent.com/89949641/133944118-9bf80873-3e0e-413c-9a43-d003e0923e80.png)
+Test List - 
+![image](https://user-images.githubusercontent.com/89949641/133944118-9bf80873-3e0e-413c-9a43-d003e0923e80.png)
 
 Test 1 - ![image](https://user-images.githubusercontent.com/89949641/133944059-6498bfd0-e755-4b79-9462-41f3d1f7c4cd.png)
 
